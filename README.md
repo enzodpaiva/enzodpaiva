@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 
 <h3> 🤖&nbsp; About Me </h3>
-<p>I am a Back-end Developer with 3+ years of experience in developing enterprise applications and open-source software.</p>
+<p>I am a Back-end Software Engineer with 3+ years of experience in developing enterprise applications and open-source software.</p>
 
 - 👯 Looking to collaborate with software projects on ONG's, enterprises or Open Source
 - 💬 Ask me about anything related to PHP, SQL, NoSQL, JS, Software Engineer
