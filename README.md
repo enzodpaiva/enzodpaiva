@@ -3,7 +3,7 @@
 <h3> 🤖&nbsp; About Me </h3>
 <p>I am a Back-end Developer with 3+ years of experience in developing enterprise applications and open-source software.</p>
 
-- 👯 Looking to collaborate with software projects on ONG's or Open Source
+- 👯 Looking to collaborate with software projects on ONG's, enterprises or Open Source
 - 💬 Ask me about anything related to PHP, SQL, NoSQL, JS, Software Engineer
 
 <h3>💻  Languages and Tools</h3>
@@ -35,9 +35,14 @@
 
 <h3>🏆 Awards and Achievements</h3>
 
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons and events
+##### 1st place - HackAthon Space Apps NASA - Won the 1st edition
+- **Project**: A system that helps trace possible ocean garbage routes!
+
+##### 2nd place - Fecintec 2019
+- **Project**: A flight monitoring system designed for paragliding pilots, developed for the bluesky school.
+
+##### 3rd place - Brazilian Congress of Physical Activity and Health
+- **Project**: An application aimed at promoting integration among users and sports of different modalities.
 
 <h3>🌟 Where contact me</h3>
   <p>
